@@ -1,9 +1,1 @@
-//  Visit http://localhost:4000/compute/addition?x=5&y=3
-//  Trying to reach the endpoint will be met with 'unauthorized'
-
-//  Visit http://localhost:4000/login
-//  Username = user1 // Password = 123
-//  Logging in will create an authorization token
-
-//  Visit http://localhost:4000/compute/addition?x=5&y=3
-//  Querying the endpoint is now possible
+Docker file 5.1p
